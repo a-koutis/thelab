@@ -1,0 +1,4 @@
+.env
+lib\__pycache__
+lib/__pycache__/__init__.cpython-312.pyc
+lib/__pycache__/utils.cpython-312.pyc
